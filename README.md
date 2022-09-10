@@ -1,16 +1,14 @@
 # Personal_Portfolio
 
- # https://sonal-portfolio.netlify.app ( Netify link)
+ # https://sonal-portfolio.netlify.app ( live site Netify link)
 
 # Responsive Personal Portfolio Website 
 
-1. Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-
-2. This website is hosted using Netlify 
-
-3. Smooth scrolling in each section.
-
-4. Compatible with all mobile devices and with a beautiful and pleasant user interface.
+1. Responsive Personal Portfolio Website Using HTML CSS & JavaScript.
+2. This website is hosted using Netlify. 
+3. It includes a Header, Home, About,Skills, Contact and Footer.
+4. Smooth scrolling in each section.
+5. Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/53908313/189478529-b98a1a23-4073-44ec-a87f-b87e74ad48e3.png)
