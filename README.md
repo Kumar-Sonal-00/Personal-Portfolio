@@ -1,6 +1,6 @@
 # Personal_Portfolio
 
- # https://sonal-portfolio.netlify.app ( live site Netify link)
+ # https://sonal-portfolio.netlify.app ( Live Site Netify Link)
 
 # Responsive Personal Portfolio Website 
 
